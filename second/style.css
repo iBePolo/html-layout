@@ -1,0 +1,52 @@
+.leftBar {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background-color: #4a90e2;
+  width: 342px;
+  height: 100%;
+  z-index: 2;
+}
+
+.middleBar {
+  position: absolute;
+  background-color: #50e3c2;
+  margin-left: 342px;
+  top: 0px;
+  left: 0px;
+  width: 342px;
+  height: 100%;
+  z-index: 3;
+}
+
+
+.rightBar {
+  position: absolute;
+  background-color: #b8e986;
+  width: 342px;
+  height: 100%;
+  margin-left: 684px;
+  top: 0px;
+  left: 0px;
+  z-index: 1;
+}
+
+.placeHolder{
+  position: absolute;
+  background-color: #d0021b;
+  width: 342px;
+  height: 208px;
+  bottom: 0px;
+  left: 0px;
+  margin-left: 684px;
+  /*color: white;
+  text-align: center;*/
+  z-index: 4;
+}
+
+p {
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  margin-top: 95px;
+}

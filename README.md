@@ -8,7 +8,7 @@ Fork this repo then clone your fork onto your local machines. Inside each folder
  * Understand the purpose of CSS
  * From scratch, be able to create a skeleton for their html and css page
  * Understand and be able to use the following HTML Elements 
-    - p
+    - p*
     - footer
     - header
     - h1-h6
